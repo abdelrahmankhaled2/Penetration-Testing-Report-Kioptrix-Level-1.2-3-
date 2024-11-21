@@ -32,10 +32,9 @@ The methodology includes reconnaissance, vulnerability assessment, exploitation,
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/kioptrix-level1.2-penetration-testing.git
+   
    Install the required tools:
    sudo apt install nmap nikto sqlmap dirb
-
-   Follow the methodology outlined in the documentation/ folder to reproduce the results Documentation
 
 ## Documentation 
 - **Methodology**: A detailed breakdown of the penetration testing process.
